@@ -8,7 +8,7 @@
   "server": {
     "ip": "servescoela.aternos.me",
     "port": 53018,
-    "version": "1.21.1"
+    "version": "1.26.3"
   },
   "position": {
     "enabled": true,
